@@ -4,8 +4,9 @@ from tkinter import messagebox
 
 import random
 
-
+# Screen Layout
 top = tkinter.Tk()
+top.iconbitmap('rps.ico')
 
 top.title("Rock | Paper | Scissor")
 
